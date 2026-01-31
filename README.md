@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm ## Aliya, an IT student based on Somalia.
+## I'm Aliya, an IT student based on Somalia.
 
 🔭 I’m currently working on IT-related academic and personal projects
 
