@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Skydark09/Skydark09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm ## Aliya, an IT student based on Somalia.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on IT-related academic and personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning software development and core IT concepts
+
+👯 I’m looking to collaborate on beginner-friendly tech projects
+
+🤔 I’m looking for help with improving practical and real-world IT skills
+
+💬 Ask me about my learning journey in IT
+
+📫 How to reach me:aliyayusuf543@gmail.com
+
+⚡ Fun fact: I enjoy learning new technologies and improving my skills
