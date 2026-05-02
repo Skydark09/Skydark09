@@ -12,6 +12,6 @@
 
 💬 Ask me about my learning journey in IT
 
-📫 How to reach me:aliyayusuf543@gmail.com
+📫 How to reach me:aliyayusuf234@gmail.com
 
 ⚡ Fun fact: I enjoy learning new technologies and improving my skills
